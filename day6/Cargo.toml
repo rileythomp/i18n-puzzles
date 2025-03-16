@@ -1,0 +1,8 @@
+[package]
+name = "day6"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+encoding = "0.2.33"
+encoding_rs = "0.8.35"

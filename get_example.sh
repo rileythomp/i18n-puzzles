@@ -1,4 +1,4 @@
-curl 'https://i18n-puzzles.com/puzzle/4/test-input' \
+curl "https://i18n-puzzles.com/puzzle/${PWD: -1}/test-input" \
   -H 'Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7' \
   -H 'Accept-Language: en' \
   -H 'Connection: keep-alive' \
